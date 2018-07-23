@@ -5,6 +5,7 @@ The information contain:
   time: words related to time,  eg.(2018-07-02, weekly)
   tags: companies, person, proper noun
   location: geographic information
+  
 For test, I input an article from wallstreetmorning.com, the link is: 
 http://www.wallstreetmorning.com/2018/06/08/meridian-bioscience-inc-vivo-stock-technical-analysis/
 The output is:
